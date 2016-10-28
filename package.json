@@ -1,0 +1,7 @@
+{
+  "name": "YandexTranslateScript",
+  "version": "0.0.1",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
